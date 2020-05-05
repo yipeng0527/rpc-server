@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rpc-server.iml" filepath="$PROJECT_DIR$/rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-server-api/rpc-server-api.iml" filepath="$PROJECT_DIR$/rpc-server-api/rpc-server-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-server-provider/rpc-server-provider.iml" filepath="$PROJECT_DIR$/rpc-server-provider/rpc-server-provider.iml" />
+    </modules>
+  </component>
+</project>
