@@ -7,6 +7,7 @@ import com.yp.api.v2.User;
  * @author ex-yipeng
  * @version Id: HelloServiceImpl2.java, v 0.1 2020/5/14 11:32 ex-yipeng Exp $
  */
+@RpcService(value = IHelloService.class,version = "V2.0")
 public class HelloServiceImpl2 implements IHelloService {
 
     @Override
