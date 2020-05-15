@@ -1,3 +1,5 @@
-git git /target/
+/target/
 /*.iml
 /.idea/
+/*/target/
+/*/*.iml
